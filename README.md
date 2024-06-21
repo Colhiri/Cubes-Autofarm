@@ -21,6 +21,7 @@ Settings -> Advanced -> Experimental settings -> Enable WebView inspecting
 На поверхности открывшегося приложения вызвать меню и выбрать Inspect element
 ИЛИ
 Нажимаем правой кнопкой и тащим в сторону после чего появляется меню выбираем "Проверить"
+
 ![image](https://github.com/Colhiri/Cubes-Autofarm/assets/118454025/ed1a776e-4ff1-4bca-a143-22a466744274)
 
 В моем случае открывается DevTools
@@ -31,5 +32,6 @@ Settings -> Advanced -> Experimental settings -> Enable WebView inspecting
 Копируем свой токен и вставляем его в "token.json"
 Запускаем скрипт "cubes.py"
 Схема:
+
 ![Для ГИТ Cubes](https://github.com/Colhiri/Cubes-Autofarm/assets/118454025/d1ac1c4e-26dc-4b5a-b3e9-2460a9d7b14c)
 
